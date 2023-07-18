@@ -2,11 +2,6 @@
 
 Sources of data considered for the construction of Propitter, a propaganda collection from Twitter.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 | # | Propagandist source | Non-propagandist source |
 | --| ------------------- | ----------------------- |
 |1 |Activist Mommy/Elizabeth Johnston |ABC News
@@ -84,3 +79,52 @@ Sources of data considered for the construction of Propitter, a propaganda colle
 |73| other98 |Raleigh News and Observer
 |74| Patriot Journal |RedState
 |75| PJ Media |Roanoke Times
+|76 |Political Dig |RTDNews
+|77 |PragerU |RTE (Radio Television of Ireland)
+|78 |PRISource| Sacramento Bee
+|79 |ProFamOrg |Santa Barbara Independent
+|80 |Public Discourse| Saudi Gazette
+|81 |Raheem Kassam| SFGate
+|82 |ReadTheHornNews| Sky News UK
+|83 |Red Voice Media |Sputnik News
+|84 |redicetv |St. Louis Post-Dispatch
+|85 |remnantnews |Star Tribune
+|86 |Right Side Broadcasting Network (RSBN)| Stars and Stripes
+|87 |RT |Tablet Magazine
+|88 |Rudaw |Taiwan News
+|89 |Ruptly| Tampa Bay Times
+|90 |Russia Insider |Texas Tribune
+|91 |Russian News Agency-TASS |The Bangkok Post
+|92 |scrowder |The Cipher Brief
+|93 |Sean Hannity |The Courier-Mail (Australia)
+|94 |Shafaq News| The Daily Tarheel
+|95 |Sputnik News| The Day (New London)
+|96 |StopSocialists| The Hartford Courant
+|97 |Swarajya |The Herald (Everett)
+|98 |syria_updates |The Hill
+|99 |takimag |The Jakarta Post
+|100| Tasnim News Agency |The Japan News
+|101| Tehran Times |The Nation
+|102| TeleSUR |The New Humanitarian
+|103| The Blaze |The News International
+|104| The Clover Chronicle| The Olympian
+|105| The Colorado Herald |The Patriot-News (Pennlive.com)
+|106| The D.C. Clothesline| The Providence Journal
+|107| The Daily Wire |The Santa Fe New Mexican
+|108| The Federalist (FDRLST) |The State Newspaper
+|109| The Free Telegraph| The Stream
+|110| The National (UAE)| The Sun
+|111| The Political Insider |The Tacoma News Tribune
+|112| The RFAngle |The Week (USA)
+|113| The Scoop| Thomson Reuters Foundation
+|114| The Unz Review |Time Magazine
+|115| the_majalla| Times Colonist
+|116| TheBell_News| Times of India
+|117| Tim Brown (Reformed Media/FPPTim) |Times of Israel
+|118| ToddStarnes.com |Utah Public Radio (UPR)
+|119| Trending Politics |Vancouver Sun
+|120| Turning Point USA |Washington Post
+|121| vdare |WGN News
+|122| WayneDupree.com |Windsor Star
+|123| WestJournalism|
+|124| Women are Human|
