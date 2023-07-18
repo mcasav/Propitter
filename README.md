@@ -56,7 +56,7 @@ Sources of data considered for the construction of Propitter, a propaganda colle
 |50| Information Liberation (Info Lib News) |KMOV
 |51| Institute for Historical Review |KOCO News 5
 |52| JD Rucker (NOQ Report) |Korea Herald
-|53| Judicial Watch |KPOP Herald
+|53| Judicial Watch |
 |54| Just The News| KUOW NPR
 |55| Left Action |LA Times (Los Angeles Times)
 |56| Lew Rockwell |Lethbridge Herald
